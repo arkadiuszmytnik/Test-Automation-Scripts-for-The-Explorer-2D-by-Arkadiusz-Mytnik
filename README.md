@@ -16,6 +16,6 @@ To run these scripts and explore the game's automation potential, follow these s
 3. Follow the Setup Guide: GameDriver provides a comprehensive setup guide to help you get everything running smoothly: https://support.gamedriver.io/support/solutions/articles/69000368474
 4. See the Scripts in Action :)
 
-Want a sneak peek? Check out this video to see how the scripts interact with the ganme: https://youtu.be/M_odcrjRkPs
+Want a sneak peek? Check out this video to see how the scripts interact with the game: https://youtu.be/M_odcrjRkPs
 
 Happy testing!
